@@ -428,7 +428,10 @@ The Executive Director and Chapter Council Chair shall be responsible for interp
  
 5.8. Potential BOD members must officially announce their candidacy to the election supervisor and to the Chapter Council no later than April 2nd.
  
-5.9. A Board member’s elected term is one year beginning on August 1.
+5.9. A board member's elected term is two years beginning on August 1.
+5.9.1   Elections for directors will be staggered, with 3 being elected each year.
+5.9.1.1 Executive Director, Director of Records, and Arbiter elections will occur on every odd year.
+5.9.1.2 Director of Public Relations, Director of Finance, and Chapter Liaison elections will occur on every even year.
  
 5.10. Any candidate who runs unopposed shall assume office beginning on August 1.
  
