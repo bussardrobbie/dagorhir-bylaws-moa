@@ -1,16 +1,16 @@
-DBGA BYLAWS
+# DBGA BYLAWS
  
 As with the basic premise of the Dagorhir Game Rules System, common sense supersedes perceived loopholes in these Bylaws. 
  
 The Executive Director and Chapter Council Chair shall be responsible for interpreting the bylaws. A failure to agree on interpretation shall be resolved by the Chapter Council.
  
  
-1. Simple Majority Standard
+## 1. Simple Majority Standard
  
 1.1. Unless otherwise specified, a simple majority is required for all votes presented in these bylaws.
  
  
-2. Executive Board Overview
+## 2. Executive Board Overview
  
 2.1. The Board of Directors shall consist of the following Directors in order of succession to the Executive Director:
  
@@ -62,7 +62,7 @@ The Executive Director and Chapter Council Chair shall be responsible for interp
  
 2.9.4.2. Reviews and public publishing are to happen in the third and ninth months of the term.
  
-2.10. Authorities of the Executive Director
+### 2.10. Authorities of the Executive Director
  
 2.10.1. The Executive Director or their delegate may speak on behalf of the DBGA as a corporation.
  
@@ -70,7 +70,7 @@ The Executive Director and Chapter Council Chair shall be responsible for interp
  
 2.10.3. The Executive Director shall maintain a trusted proxy to hold the address of record which complies with the incorporation requirements for DBGA.
  
-2.11. Authorities of All Directors
+### 2.11. Authorities of All Directors
  
 2.11.1. Directors may speak on behalf of the DBGA in the context of their area of responsibility.
  
@@ -121,9 +121,9 @@ The Executive Director and Chapter Council Chair shall be responsible for interp
 2.18. All Executive Board members shall be personally held harmless and indemnified for all actions made in good faith while in performance of their positions.
  
  
-3. Board Positions
-3.1. Executive Director
-3.1.1. The Executive Director’s  responsibilities are as follows:
+## 3. Board Positions
+### 3.1. Executive Director
+3.1.1. The Executive Director’s responsibilities are as follows:
  
 3.1.1.1. Overseeing DBGA strategic planning and organization.
  
@@ -139,7 +139,7 @@ The Executive Director and Chapter Council Chair shall be responsible for interp
  
 3.1.3. The Executive Director is responsible for ensuring that each member of the Board of Directors is fulfilling the responsibilities of their office.
  
-3.2. Director of Public Relations
+### 3.2. Director of Public Relations
 3.2.1. The Director of Public Relations’ responsibilities are as follows:
  
 3.2.1.1. Advertising and recruitment efforts on behalf of DBGA.
@@ -150,7 +150,7 @@ The Executive Director and Chapter Council Chair shall be responsible for interp
  
 3.2.1.4. Oversee efforts for equity and diversity in Dagorhir.
  
-3.3. Director of Records
+### 3.3. Director of Records
 3.3.1. The Director of Records’ responsibilities are as follows:
  
 3.3.1.1. Registration and evaluation of Dagorhir Chapters and Dagorhir Membership.
@@ -161,7 +161,7 @@ The Executive Director and Chapter Council Chair shall be responsible for interp
  
 3.3.1.3.1. A Chapter member, and by extension a Dagorhir member, is defined in the Chapter Contract as a person who regularly attends a Chapter’s events.
  
-3.4. Director of Finance
+### 3.4. Director of Finance
 3.4.1. The Director of Finance’s responsibilities are as follows: 
  
 3.4.1.1. Payment of debts incurred by the organization. 
@@ -182,7 +182,7 @@ The Executive Director and Chapter Council Chair shall be responsible for interp
  
 3.4.1.8. Publish quarterly financial reports available to all Dagorhir members.
  
-3.5. Chapter Liaison
+### 3.5. Chapter Liaison
 3.5.1.The Chapter Liaison’s responsibilities are as follows: 
  
 3.5.1.1. Provide guidance for the planning and administration of Dagorhir events.
@@ -205,7 +205,7 @@ The Executive Director and Chapter Council Chair shall be responsible for interp
  
 3.5.1.10. Research and provide guidance on historic methods and fantasy references.
  
-3.6. Arbiter
+### 3.6. Arbiter
 3.6.1. The Arbiter’s responsibilities and authority are as follows:
  
 3.6.1.1. Participant health, safety, and security at Dagorhir events.
@@ -215,7 +215,7 @@ The Executive Director and Chapter Council Chair shall be responsible for interp
 3.6.1.3. Disciplinary and preventative measures to ensure the security and wellbeing of participants in Dagorhir activities and associated social media.
  
  
-4. Dagorhir Bans & Suspensions (Arbiter).
+## 4. Dagorhir Bans & Suspensions (Arbiter).
  
 4.1. The purpose of this section is to protect the members of Dagorhir by outlining the disciplinary process.
  
@@ -404,7 +404,7 @@ The Executive Director and Chapter Council Chair shall be responsible for interp
 4.8.4. If an Arbiter is removed, as detailed in Section 6, any decision they made during their tenure can be immediately appealed to the next Arbiter by either the complainant or the banned/suspended individual.
  
  
-5. Elections
+## 5. Elections
  
 5.1. Elections to the board shall be held in May. 
  
@@ -445,7 +445,7 @@ The Executive Director and Chapter Council Chair shall be responsible for interp
 5.14. If a BOD candidate is elected to a position that is vacant, the candidate will fill the position immediately.
  
  
-6. Removal of a Director
+## 6. Removal of a Director
  
 6.1. A director removal for cause happens when the Chapter Council decides to remove a director from their position on the board of directors for a specific reason.
  
@@ -470,7 +470,7 @@ The Executive Director and Chapter Council Chair shall be responsible for interp
 6.7. A Director may be removed for cause by a two-thirds (2/3) majority vote of the Chapter Council.
  
  
-7. Chapter Council
+## 7. Chapter Council
  
 7.1. Chapter Council (CC) consists of two Representatives (Reps) from each Active Chapter holding a notarized contract with DBGA. Each Active Chapter may have their own method for deciding their Reps, who will serve for terms of at least six (6) months (excepting in extenuating circumstances). An active chapter may choose to have a rep that is not a chapter officer. If a chapter’s chosen representatives are not chapter officers, a chapter head must send an electronic list identifying designated chapter representatives to the DBGA. This will contain Real name, fighting name and length of their term.  
  
@@ -589,7 +589,7 @@ The Executive Director and Chapter Council Chair shall be responsible for interp
 7.13. The Chapter Council may form ad hoc committees as needed. The committees’ size and scope will be determined by the Council during the founding of the committee. 
  
  
-8. Funding
+## 8. Funding
  
 8.1. The Chapter Council has the exclusive authority to authorize funding projects or methods for the DBGA.
  
@@ -612,10 +612,10 @@ The Executive Director and Chapter Council Chair shall be responsible for interp
 8.1.3.2   Expense projects must be in service to Dagorhir.
  
  
-Definitions
+## Definitions
  
 Responsibilities: A role vested with a given responsibility has the sole authority over the responsibility. No other party may assume authority for that responsibility without the written consent of the director entrusted with said responsibility.
  
 Oversight: The monitoring of tasks. If a task is not completed within a reasonable time the overseer shall make attempts to reach out to the responsible party and ensure that the task will be completed. If the task is still not completed, the overseer shall report to the chapter council.
  
-Last Updated 10.22.22
+## Last Updated 10.22.22
