@@ -1,5 +1,5 @@
-#Manual of Arms
-##The Official Dagorhir Rules of Play
+# Manual of Arms
+## The Official Dagorhir Rules of Play
 
 These are the Dagorhir rules as of 2023. A PDF Version is [available here](https://docs.google.com/document/d/1QKt8qHH4Gfplgz6wK5W2RaW0YIHJZ2rkPYIa6GHGlXI/edit?usp=sharing). For a history of changes, please see the [Historical Manual of Arms Versions](http://www.dagorhir.wiki/w/index.php?title=Historical_Manual_of_Arms_Versions). 
 
@@ -11,10 +11,10 @@ Detailed below is the current “Manual of Arms”
 
 Dagorhir is a very physical sport. While serious injuries are very rare, minor injuries such as bruises, muscle strains, and skinned knuckles can result from being hit by Dagorhir weapons and/or tripping, accidentally smashing one’s hand into that of another participant, or running into a tree, etc.).
 
-###RULE 0
+### RULE 0
 Dagorhir is a game of honor. In all aspects of Dagorhir, common sense supersedes loopholes. In applying the rules, safety comes first, followed by playability, then “realism.” Please read the rules thoroughly (several times is recommended). The rules are written to be self-explanatory, clear, and detailed, but not every angle of every situation can be covered. Often a rule is clarified later in the same (or subsequent) paragraph. Loopholes will not even be considered by the Heralds (referees), check-in personnel, officials, or other players.
 
-###PARTICIPATION
+### PARTICIPATION
 1.1 – The minimum age for participation in Dagorhir battle games is 16; however, some Dagorhir Chapters may choose to raise or lower this limit for their Chapter.
 
 1.2 – All participants must sign a release form before they will be allowed to participate in any Dagorhir event. For those who are under 18, a legal guardian must sign the release form with either a notary or a member of the Dagorhir check-in staff as witness.
@@ -43,19 +43,19 @@ Dagorhir is a game of honor. In all aspects of Dagorhir, common sense supersedes
 
 Examples of Minimal, Optimal and Illegal Garb
 
-###ILLEGAL GARB
+### ILLEGAL GARB
 Tshirt, Sweatpants, Sneakers
 ![Illegal Garb Example](https://dagorhir.com/wordpress/wp-content/uploads/2017/11/garb_illegal.png)
 
-###MINIMAL GARB
+### MINIMAL GARB
 Tunic, Trousers, Neutral shoes
 ![Minimal Garb Example](https://dagorhir.com/wordpress/wp-content/uploads/2017/11/garb_spud.png)
 
-###OPTIMAL GARB
+### OPTIMAL GARB
 Accessories, Multiple Layers
 ![Optimal Garb Example](https://dagorhir.com/wordpress/wp-content/uploads/2017/11/garb_swag.png)
 
-###2 - General Rules
+### 2 - General Rules
 2.1 – Event organizers reserve the right to eject or exclude any person from a Dagorhir event for the following reasons:
 
 2.1.1 – Violating local, county, state, or federal laws which impact Dagorhir or Dagorhir events, including but not limited to violations which endanger the safety of Dagorhir members, spectators, or bystanders; violations which endanger Dagorhir’s use of facilities; violations of Dagorhir’s intellectual property rights (including but not limited to using Dagorhir’s ® Servicemarked name without legal permission and theft of copyrighted material from Dagorhir, Dagorhir chapters, or units); etc.
@@ -75,7 +75,7 @@ Accessories, Multiple Layers
 2.2.1 – A Herald has the right to remove anyone from the field for behaviors described above.
 
  
-###3 - Combat & Damage
+### 3 - Combat & Damage
 3.1 – As stated previously, in combat, common sense supersedes perceived loopholes. In all manners concerning these rules, Heralds and event organizers shall have final say. When resolving rules questions, Heralds shall consider the matter according to the following criteria: safety first, playability second, and “realism” last.
 
 3.2 – Weapon Combat: To “kill” or “wound” someone in Dagorhir, you must use a weapon which has passed safety inspection for that event.
@@ -123,6 +123,7 @@ Accessories, Multiple Layers
 3.5 – Weapon damage varies according to weapon type and whether the target area is armored. See the Dagorhir Combat Quick Reference Chart for a one-page matrix showing the effect of each color of weapon against armored and unarmored target areas.
 
 | STRIKE ZONE | BLUE | RED + | GREEN (ONE HANDED) | GREEN (TWO HANDED) | YELLOW | WHITE |
+| ----------- | ---- | ----- | ------------------ | ------------------ | ------ | ----- |
 | Torso | Death | Death | Death | Death | Death | No Effect |
 | Leg or Arm | Lose Limb++ | Lose Limb++ | Lose Limb | Lose Limb | Lose Limb | No Effect |
 | Feet or Hands | No Effect | No Effect | No Effect | No Effect | No Effect+++ | No Effect |
@@ -136,7 +137,7 @@ Accessories, Multiple Layers
 +++Except for arrows. Hits to the hand with arrows always result in the loss of the arm
 ++++Rocks have no effect on the neck.
 
-###4 - Weapons
+### 4 - Weapons
 4.1 – General
 
 4.1.1 – All weapons are subject to rejection for any safety or construction discrepancies as determined by the weapons checkers appointed by the event organizers.
@@ -401,7 +402,7 @@ Accessories, Multiple Layers
 
 4.10.3 – Anvilling, the act of laying one’s weapon on a shield or body part to avoid taking damage, is not permitted.
 
-###5 - Armor
+### 5 - Armor
 5.1 – General
 
 5.1.1 – All types of armor provide the same level of protection.
@@ -472,7 +473,7 @@ Accessories, Multiple Layers
 
 5.4 – Armor may not be constructed of plastic or other non-period materials.
 
-###6 - Wounds & Healing
+### 6 - Wounds & Healing
 6.1 – When in doubt of any of these rules, ask a Herald.
 
 6.2 – When killed, scream and fall to a prone position on the ground.
