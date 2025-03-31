@@ -11,10 +11,10 @@ Detailed below is the current “Manual of Arms”
 
 Dagorhir is a very physical sport. While serious injuries are very rare, minor injuries such as bruises, muscle strains, and skinned knuckles can result from being hit by Dagorhir weapons and/or tripping, accidentally smashing one’s hand into that of another participant, or running into a tree, etc.).
 
-### RULE 0
+### Rule 0
 Dagorhir is a game of honor. In all aspects of Dagorhir, common sense supersedes loopholes. In applying the rules, safety comes first, followed by playability, then “realism.” Please read the rules thoroughly (several times is recommended). The rules are written to be self-explanatory, clear, and detailed, but not every angle of every situation can be covered. Often a rule is clarified later in the same (or subsequent) paragraph. Loopholes will not even be considered by the Heralds (referees), check-in personnel, officials, or other players.
 
-### PARTICIPATION
+### Participation
 1.1 – The minimum age for participation in Dagorhir battle games is 16; however, some Dagorhir Chapters may choose to raise or lower this limit for their Chapter.
 
 1.2 – All participants must sign a release form before they will be allowed to participate in any Dagorhir event. For those who are under 18, a legal guardian must sign the release form with either a notary or a member of the Dagorhir check-in staff as witness.
@@ -43,15 +43,15 @@ Dagorhir is a game of honor. In all aspects of Dagorhir, common sense supersedes
 
 Examples of Minimal, Optimal and Illegal Garb
 
-### ILLEGAL GARB
+### Illegal Garb
 Tshirt, Sweatpants, Sneakers
 ![Illegal Garb Example](https://dagorhir.com/wordpress/wp-content/uploads/2017/11/garb_illegal.png)
 
-### MINIMAL GARB
+### Minimal Garb
 Tunic, Trousers, Neutral shoes
 ![Minimal Garb Example](https://dagorhir.com/wordpress/wp-content/uploads/2017/11/garb_spud.png)
 
-### OPTIMAL GARB
+### Optimal Garb
 Accessories, Multiple Layers
 ![Optimal Garb Example](https://dagorhir.com/wordpress/wp-content/uploads/2017/11/garb_swag.png)
 
