@@ -122,20 +122,20 @@ Accessories, Multiple Layers
 
 3.5 – Weapon damage varies according to weapon type and whether the target area is armored. See the Dagorhir Combat Quick Reference Chart for a one-page matrix showing the effect of each color of weapon against armored and unarmored target areas.
 
-| STRIKE ZONE | BLUE | RED + | GREEN (ONE HANDED) | GREEN (TWO HANDED) | YELLOW | WHITE |
-| ----------- | ---- | ----- | ------------------ | ------------------ | ------ | ----- |
+| :STRIKE ZONE: | :BLUE: | :RED: [^1] | :GREEN (ONE HANDED): | :GREEN (TWO HANDED): | :YELLOW: | :WHITE: |
+| ------------- | ------ | ------- | -------------------- | -------------------- | -------- | ------- |
 | Torso | Death | Death | Death | Death | Death | No Effect |
-| Leg or Arm | Lose Limb++ | Lose Limb++ | Lose Limb | Lose Limb | Lose Limb | No Effect |
-| Feet or Hands | No Effect | No Effect | No Effect | No Effect | No Effect+++ | No Effect |
-|Head or Neck | Not Allowed | Not Allowed | Not Allowed | Not Allowed | Death | Death++++ |
+| Leg or Arm | Lose Limb[^2] | Lose Limb[^2] | Lose Limb | Lose Limb | Lose Limb | No Effect |
+| Feet or Hands | No Effect | No Effect | No Effect | No Effect | No Effect[^3] | No Effect |
+|Head or Neck | Not Allowed | Not Allowed | Not Allowed | Not Allowed | Death | Death[^4] |
 | Armored Torso | Stops 1st Hit Only | Death | No Effect | Death | Death | No Effect |
-| Armored Limb | Stops 1st Hit Only | Lose Limb++ | No Effect | Lose Limb | Lose Limb | No Effect |
+| Armored Limb | Stops 1st Hit Only | Lose Limb[^2] | No Effect | Lose Limb | Lose Limb | No Effect |
 | Armored Head | Not Allowed | Not Allowed | Not Allowed | Not Allowed | No Effect | No Effect |
 
-+One hand red counts as blue.
-++Any (2) limbs hacked/smashed with red/blue weapons is death.
-+++Except for arrows. Hits to the hand with arrows always result in the loss of the arm
-++++Rocks have no effect on the neck.
+[^1]: One hand red counts as blue.
+[^2]: Any (2) limbs hacked/smashed with red/blue weapons is death.
+[^3]: Except for arrows. Hits to the hand with arrows always result in the loss of the arm
+[^4]: Rocks have no effect on the neck.
 
 ### 4 - Weapons
 4.1 – General
